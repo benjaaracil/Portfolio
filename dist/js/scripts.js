@@ -8,7 +8,18 @@
 // 
 
 window.addEventListener('DOMContentLoaded', event => {
+    
+    //Enable button by Monkey ;)
+    // console.log(document.body.querySelector("#submitButton"));
+    // var enableButton = function () {
+    //     const formulario = document.body.querySelector("#submitButton")
+    //     if 
+    // }
+    
 
+    document.addEventListener("")
+
+    
     // Navbar shrink function
     var navbarShrink = function () {
         const navbarCollapsible = document.body.querySelector('#mainNav');
